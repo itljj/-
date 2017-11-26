@@ -1,0 +1,26 @@
+{
+  "name": "yike-master",
+  "version": "1.0.0",
+  "description": "![image index](https://github.com/AlertZq/YiKe/blob/master/img-folder/index.jpg) ### 菜单栏 ![image aside](https://github.com/AlertZq/YiKe/blob/master/img-folder/aside.jpg) ### 作者 ![image author](https://github.com/AlertZq/YiKe/blob/master/img-folder/author.jpg) ### 栏目分类 ![image category](https://github.com/AlertZq/YiKe/blob/master/img-folder/category.jpg) ### 设置 ![image setting](https://github.com/AlertZq/YiKe/blob/master/img-folder/setting.jpg)",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-babel": "^7.0.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^4.0.0",
+    "gulp-less": "^3.3.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-rev": "^8.1.0",
+    "gulp-rev-collector": "^1.2.3",
+    "gulp-uglify": "^3.0.0",
+    "gulp-useref": "^3.1.3"
+  }
+}
